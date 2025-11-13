@@ -60,6 +60,7 @@ Using data-driven insights, statistical validation, and machine learning models,
 | **Logistic Regression** | Classify movies (Good/Average/Poor) | 70% | Quality prediction tool |
 | **K-Nearest Neighbors (KNN)** | Predict Hit vs Flop | 86% | Excellent for early flop detection |
 | **K-Means Clustering** | Segment top-rated movies | – | Identified 5 movie archetypes |
+
 **Confusion Matrix (KNN):**  
 - 94% recall for flops (very accurate in risk identification)  
 - 62% recall for hits (moderate hit detection)
